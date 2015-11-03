@@ -1,0 +1,21 @@
+.boats{
+  /*background-image: url("http://applevacationsgroup.com/Crystal_water.jpg");
+  background-repeat: no-repeat;*/
+  background-color: black;
+}
+.boats h1{
+  text-align: center;
+  color: white;
+}
+.boats h3{
+  margin-left: 10%;
+  color: white;
+}
+.boats p{
+  margin-left: 15%;
+  color: white;
+
+}
+.boats img{
+  width: 15%;
+  height: 15%;
